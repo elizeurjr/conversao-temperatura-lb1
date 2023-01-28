@@ -7,4 +7,4 @@ O projeto conversão de temperatura é um projeto desenvolvido em NodeJS. O proj
 A aplicação é exposta usando a porta 8080
 
 ### Imagem Docker
-A publicação da imagem pode ser acessada acessada no repositório [dockerhub](https://hub.docker.com/repository/docker/elizeurjr/conversao-temperatura/general)
+A publicação da imagem pode ser visualizada no repositório [dockerhub](https://hub.docker.com/repository/docker/elizeurjr/conversao-temperatura/general)
